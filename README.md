@@ -36,6 +36,6 @@ I love working on the CMS (Content Management System) so I'm currently working o
 </p>
 
 <h2 align="center">Activities</h2>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mostafa-Moafi?cardType=github&theme=github-dark&Border=FFFFFF)](https://git.io/awesome-stats-card)
-
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    <img  alt="Mostafa-Moafi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mostafa-Moafi?cardType=github&theme=dark&preferLogin=false" />  </a>
+  </p>
