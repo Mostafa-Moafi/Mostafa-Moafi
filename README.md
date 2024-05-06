@@ -37,10 +37,14 @@ I love working on the CMS (Content Management System) so I'm currently working o
 
 <h2 align="center">Activities</h2>
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">    <img  alt="Mostafa-Moafi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mostafa-Moafi?cardType=github&theme=dark&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=false">
+    <img alt="Mostafa-Moafi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mostafa-Moafi?cardType=github&theme=dark&preferLogin=false" />  </a>
   </p>
-<hr/>
+  
+<h2 align="center">GitHub Streak</h2>
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Moafi&theme=dark)](https://git.io/streak-stats)
+ <a href="https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Moafi&theme=dark)](https://git.io/streak-stats">
+<img alt="Mostafa-Moafi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Mostafa-Moafi&theme=dark" />
+ </a>
 </p>
 
