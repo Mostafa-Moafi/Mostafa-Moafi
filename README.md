@@ -2,9 +2,7 @@
 
 I'm a software engineer, specializing in backend development and distributed systems. 
 I love working on the CMS (Content Management System) so I'm currently working on DNN and Oqtane.
-
 <h2 align="center">skills</h2>
-
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="60px" alt="csharp" style="vertical-align:top; margin:4px;">
